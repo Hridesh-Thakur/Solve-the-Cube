@@ -4073,7 +4073,7 @@ class Game {
     }
 
   }
-
+ 
 }
 
 window.version = '0.99.2';
