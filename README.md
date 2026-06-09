@@ -21,10 +21,8 @@ Depending on your implementation, this project may use:
 - HTML
 - CSS
 - JavaScript
-- React
-- Python
 
-> Update this section based on the actual technologies used in your repository.
+
 
 ## Project Goals
 
@@ -37,13 +35,13 @@ Depending on your implementation, this project may use:
 
 ```bash
 Solve-the-Cube/
+├── README.md
 ├── index.html
-├── style.css
 ├── script.js
-└── README.md
+└── style.css
 ```
 
-> Replace this structure with your actual project files.
+
 
 ## Getting Started
 
