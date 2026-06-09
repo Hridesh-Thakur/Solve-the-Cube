@@ -34,7 +34,7 @@ Depending on your implementation, this project may use:
 ## Folder Structure
 
 ```bash
-Solve-the-Cube/
+Rubiks-Cube/
 ├── README.md
 ├── index.html
 ├── script.js
