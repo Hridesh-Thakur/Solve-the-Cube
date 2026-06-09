@@ -4,7 +4,7 @@ A fun and interactive project focused on solving the cube efficiently through lo
 
 ## Overview
 
-**Solve the Cube** is a project built to help users understand, simulate, or solve a cube-based puzzle in a simple and engaging way. It is designed to combine problem-solving, programming logic, and an interactive user experience.
+**Solve the Cube** is a project built to help users understand, simulate, or solve a cube-based puzzle simply and engagingly. It is designed to combine problem-solving, programming logic, and an interactive user experience.
 
 ## Features
 
@@ -40,7 +40,7 @@ Solve-the-Cube/
 ├── index.html
 ├── style.css
 ├── script.js
-└── assets/
+└── README.md
 ```
 
 > Replace this structure with your actual project files.
@@ -55,14 +55,8 @@ git clone https://github.com/Hridesh-Thakur/Solve-the-Cube.git
 
 ### 2. Open the project
 
-If it is a simple frontend project, open `index.html` in your browser.
+It is a simple frontend project; open `index.html` in your browser.
 
-If it uses React or another framework, install dependencies first:
-
-```bash
-npm install
-npm start
-```
 
 ## Usage
 
