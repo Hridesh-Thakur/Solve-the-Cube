@@ -1,4 +1,4 @@
-# Solve the Cube
+# Solve the Cube  
 
 A fun and interactive project focused on solving the cube efficiently through logic, algorithms, and clean implementation.
 
